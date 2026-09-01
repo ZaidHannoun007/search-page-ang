@@ -1,0 +1,14 @@
+[
+	{
+		"index": "job_application",
+		"filter": {
+			"_id": "6a95210764cf312a88f02e0e"
+		}
+	},
+	{
+		"index": "application_milestone",
+		"filter": {
+			"job_application": "6a95210764cf312a88f02e0e"
+		}
+	}
+]
